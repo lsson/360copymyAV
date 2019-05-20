@@ -1,0 +1,1 @@
+package com.po;/** * @author ：lisson * @date ：Created in 2019/4/15/ 14:47 * @Created *//** * 定义 用户实体类 */public class User {	private int id;	private String loginname;	private String loginpass;	private String realname;	private String birthday;	private String sex;}
